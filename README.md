@@ -266,10 +266,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and queries:
-- Email: [your-email@example.com]
+- Email: atharvghorpade@gmail.com
 - LinkedIn: [Your LinkedIn Profile]
 
-## 🙏 Acknowledgments
+
 
 - J&K Higher Education Department for college data
 - Smart India Hackathon 2025 organizers
