@@ -266,8 +266,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and queries:
-- Email: atharvghorpade@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
+- Email: atharv.sghorpade@gmail.com
+- LinkedIn: https://www.linkedin.com/in/atharv-ghorpade-3a6333328/
 
 
 
